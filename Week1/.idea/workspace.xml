@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6bfd8a4-94a9-40ee-952f-38a6bb4a8a6b" name="Default Changelist" comment="" />
+    <list default="true" id="d6bfd8a4-94a9-40ee-952f-38a6bb4a8a6b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +13,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1WwPkcHvx4Fi7o8bPHNsCM7Vvdw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,7 +34,19 @@
       <option name="presentableId" value="Default" />
       <updated>1580057829911</updated>
     </task>
+    <task id="LOCAL-00001" summary="Changed">
+      <created>1580439905198</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580439905198</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="226" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580439858407">
@@ -42,6 +57,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="219" y="0" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1280.680@0.0.1280.680" timestamp="1580439846686" />
+    <state x="293" y="0" key="CommitChangelistDialog2" timestamp="1580439902668">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="293" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1580439902668" />
     <state x="419" y="95" key="FileChooserDialogImpl" timestamp="1580439844775">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -50,9 +69,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="335" y="162" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1580439809647" />
-    <state x="79" y="0" key="new project wizard" timestamp="1580330029512">
+    <state x="79" y="0" key="new project wizard" timestamp="1580483164004">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="79" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1580330029512" />
+    <state x="79" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1580483164004" />
   </component>
 </project>
