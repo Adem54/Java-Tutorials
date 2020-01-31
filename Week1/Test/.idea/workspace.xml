@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Test:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aabb3adf-a704-47ac-acee-2a78df404aeb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1WuRLrx5WPDS9sPwhVUH20gkZmX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Test.js" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Java Scratch.Unname">
+    <configuration name="Unname" type="Java Scratch">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-13.0.2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Test" />
+      <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/Test.js" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="XSLT" factoryName="XSLT" nameIsGenerated="true">
+      <option name="myOutputFile" value="" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" value="" />
+      <option name="myWorkingDirectory" value="" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Java Scratch.Unname" />
+      <item itemvalue="XSLT.Unnamed" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aabb3adf-a704-47ac-acee-2a78df404aeb" name="Default Changelist" comment="" />
+      <created>1579997440632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579997440632</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="235" y="0" key="#Project_Structure" timestamp="1579997497380">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="235" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1579997497380" />
+    <state x="97" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580057638072">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="97" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1580057638072" />
+    <state x="410" y="125" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580114194293">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="410" y="125" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1580114194293" />
+    <state x="377" y="103" width="734" height="473" key="EnvironmentVariablesDialog" timestamp="1579997826008">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="377" y="103" width="734" height="473" key="EnvironmentVariablesDialog/0.0.1280.680@0.0.1280.680" timestamp="1579997826008" />
+    <state x="422" y="96" key="FileChooserDialogImpl" timestamp="1580113162971">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="422" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580113162971" />
+    <state width="1202" height="147" key="GridCell.Tab.0.bottom" timestamp="1580057747070">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580057747070" />
+    <state width="1202" height="147" key="GridCell.Tab.0.center" timestamp="1580057747069">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="147" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580057747069" />
+    <state width="1202" height="147" key="GridCell.Tab.0.left" timestamp="1580057747069">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="147" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580057747069" />
+    <state width="1202" height="147" key="GridCell.Tab.0.right" timestamp="1580057747070">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="147" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580057747070" />
+    <state x="161" y="0" key="SettingsEditor" timestamp="1580114228745">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="161" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1580114228745" />
+    <state x="485" y="210" key="classpath-attribute-editor" timestamp="1580114219354">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="485" y="210" key="classpath-attribute-editor/0.0.1280.680@0.0.1280.680" timestamp="1580114219354" />
+    <state x="335" y="162" key="com.intellij.ide.util.TipDialog" timestamp="1580057519478">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="335" y="162" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1580057519478" />
+    <state x="83" y="0" key="new project wizard" timestamp="1579998362197">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="83" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1579998362197" />
+  </component>
+</project>
