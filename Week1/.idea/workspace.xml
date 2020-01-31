@@ -7,6 +7,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1WwPkcHvx4Fi7o8bPHNsCM7Vvdw" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,10 +34,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="335" y="162" key="com.intellij.ide.util.TipDialog" timestamp="1580330007727">
+    <state x="488" y="226" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580439858407">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="335" y="162" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1580330007727" />
+    <state x="488" y="226" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1580439858407" />
+    <state x="219" y="0" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1580439846686">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="219" y="0" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1280.680@0.0.1280.680" timestamp="1580439846686" />
+    <state x="419" y="95" key="FileChooserDialogImpl" timestamp="1580439844775">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="419" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580439844775" />
+    <state x="335" y="162" key="com.intellij.ide.util.TipDialog" timestamp="1580439809647">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="335" y="162" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1580439809647" />
     <state x="79" y="0" key="new project wizard" timestamp="1580330029512">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
